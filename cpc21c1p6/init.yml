@@ -1,0 +1,102 @@
+archive: data.zip
+checker:
+  name: bridged
+  args:
+    files: checker.cpp
+    lang: CPP17
+    feedback: true
+    type: coci
+    cached: true
+test_cases:
+- batched:
+  - {in: data/1.in, out: data/1.out}
+  - {in: data/2.in, out: data/2.out}
+  - {in: data/3.in, out: data/3.out}
+  - {in: data/4.in, out: data/4.out}
+  - {in: data/5.in, out: data/5.out}
+  - {in: data/6.in, out: data/6.out}
+  - {in: data/7.in, out: data/7.out}
+  - {in: data/8.in, out: data/8.out}
+  - {in: data/9.in, out: data/9.out}
+  - {in: data/10.in, out: data/10.out}
+  - {in: data/11.in, out: data/11.out}
+  - {in: data/12.in, out: data/12.out}
+  - {in: data/13.in, out: data/13.out}
+  - {in: data/14.in, out: data/14.out}
+  - {in: data/15.in, out: data/15.out}
+  - {in: data/16.in, out: data/16.out}
+  - {in: data/17.in, out: data/17.out}
+  - {in: data/18.in, out: data/18.out}
+  - {in: data/19.in, out: data/19.out}
+  - {in: data/20.in, out: data/20.out}
+  - {in: data/21.in, out: data/21.out}
+  - {in: data/22.in, out: data/22.out}
+  - {in: data/23.in, out: data/23.out}
+  - {in: data/24.in, out: data/24.out}
+  - {in: data/25.in, out: data/25.out}
+  - {in: data/26.in, out: data/26.out}
+  - {in: data/27.in, out: data/27.out}
+  - {in: data/28.in, out: data/28.out}
+  - {in: data/29.in, out: data/29.out}
+  - {in: data/30.in, out: data/30.out}
+  - {in: data/31.in, out: data/31.out}
+  - {in: data/32.in, out: data/32.out}
+  - {in: data/33.in, out: data/33.out}
+  - {in: data/34.in, out: data/34.out}
+  - {in: data/35.in, out: data/35.out}
+  - {in: data/36.in, out: data/36.out}
+  - {in: data/37.in, out: data/37.out}
+  - {in: data/38.in, out: data/38.out}
+  - {in: data/39.in, out: data/39.out}
+  - {in: data/40.in, out: data/40.out}
+  points: 40
+- batched:
+  - {in: data/41.in, out: data/41.out}
+  - {in: data/42.in, out: data/42.out}
+  - {in: data/43.in, out: data/43.out}
+  - {in: data/44.in, out: data/44.out}
+  - {in: data/45.in, out: data/45.out}
+  - {in: data/46.in, out: data/46.out}
+  - {in: data/47.in, out: data/47.out}
+  - {in: data/48.in, out: data/48.out}
+  - {in: data/49.in, out: data/49.out}
+  - {in: data/50.in, out: data/50.out}
+  - {in: data/51.in, out: data/51.out}
+  - {in: data/52.in, out: data/52.out}
+  - {in: data/53.in, out: data/53.out}
+  - {in: data/54.in, out: data/54.out}
+  - {in: data/55.in, out: data/55.out}
+  - {in: data/56.in, out: data/56.out}
+  - {in: data/57.in, out: data/57.out}
+  - {in: data/58.in, out: data/58.out}
+  - {in: data/59.in, out: data/59.out}
+  - {in: data/60.in, out: data/60.out}
+  - {in: data/61.in, out: data/61.out}
+  - {in: data/62.in, out: data/62.out}
+  - {in: data/63.in, out: data/63.out}
+  - {in: data/64.in, out: data/64.out}
+  - {in: data/65.in, out: data/65.out}
+  - {in: data/66.in, out: data/66.out}
+  - {in: data/67.in, out: data/67.out}
+  - {in: data/68.in, out: data/68.out}
+  - {in: data/69.in, out: data/69.out}
+  - {in: data/70.in, out: data/70.out}
+  - {in: data/71.in, out: data/71.out}
+  - {in: data/72.in, out: data/72.out}
+  - {in: data/73.in, out: data/73.out}
+  - {in: data/74.in, out: data/74.out}
+  - {in: data/75.in, out: data/75.out}
+  - {in: data/76.in, out: data/76.out}
+  - {in: data/77.in, out: data/77.out}
+  - {in: data/78.in, out: data/78.out}
+  - {in: data/79.in, out: data/79.out}
+  - {in: data/80.in, out: data/80.out}
+  - {in: data/81.in, out: data/81.out}
+  - {in: data/82.in, out: data/82.out}
+  - {in: data/83.in, out: data/83.out}
+  - {in: data/84.in, out: data/84.out}
+  - {in: data/85.in, out: data/85.out}
+  - {in: data/86.in, out: data/86.out}
+  - {in: data/87.in, out: data/87.out}
+  - {in: data/88.in, out: data/88.out}
+  points: 60

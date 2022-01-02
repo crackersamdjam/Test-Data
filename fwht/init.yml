@@ -1,0 +1,9 @@
+archive: data.zip
+test_cases:
+- batched:
+  - {in: data/1.in, out: data/1.out}
+  - {in: data/2.in, out: data/2.out}
+  - {in: data/3.in, out: data/3.out}
+  - {in: data/4.in, out: data/4.out}
+  - {in: data/5.in, out: data/5.out}
+  points: 10

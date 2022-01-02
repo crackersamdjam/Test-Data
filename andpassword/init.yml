@@ -1,0 +1,71 @@
+custom_judge: grader.py
+unbuffered: true
+archive: data.zip
+test_cases:
+- batched:
+  - {in: data/1.in}
+  - {in: data/2.in}
+  - {in: data/3.in}
+  - {in: data/4.in}
+  - {in: data/5.in}
+  - {in: data/6.in}
+  - {in: data/7.in}
+  - {in: data/8.in}
+  - {in: data/9.in}
+  - {in: data/10.in}
+  - {in: data/11.in}
+  - {in: data/12.in}
+  - {in: data/13.in}
+  - {in: data/14.in}
+  - {in: data/15.in}
+  - {in: data/16.in}
+  - {in: data/17.in}
+  - {in: data/18.in}
+  - {in: data/19.in}
+  - {in: data/20.in}
+  points: 30
+- batched:
+  - {in: data/21.in}
+  - {in: data/22.in}
+  - {in: data/23.in}
+  - {in: data/24.in}
+  - {in: data/25.in}
+  - {in: data/26.in}
+  - {in: data/27.in}
+  - {in: data/28.in}
+  - {in: data/29.in}
+  - {in: data/30.in}
+  points: 30
+- batched:
+  - {in: data/40.in}
+  - {in: data/41.in}
+  - {in: data/42.in}
+  - {in: data/43.in}
+  - {in: data/44.in}
+  - {in: data/45.in}
+  - {in: data/46.in}
+  - {in: data/47.in}
+  - {in: data/48.in}
+  - {in: data/49.in}
+  - {in: data/50.in}
+  - {in: data/51.in}
+  - {in: data/52.in}
+  - {in: data/53.in}
+  - {in: data/54.in}
+  - {in: data/55.in}
+  - {in: data/56.in}
+  - {in: data/57.in}
+  - {in: data/58.in}
+  - {in: data/59.in}
+  - {in: data/60.in}
+  - {in: data/61.in}
+  - {in: data/62.in}
+  - {in: data/63.in}
+  - {in: data/64.in}
+  - {in: data/65.in}
+  - {in: data/66.in}
+  - {in: data/67.in}
+  - {in: data/68.in}
+  - {in: data/69.in}
+  - {in: data/70.in}
+  points: 40

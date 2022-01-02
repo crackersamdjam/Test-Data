@@ -1,0 +1,10 @@
+archive: data.zip
+checker: checker.py
+test_cases:
+- batched:
+  - {in: data/in1.txt, out: data/out1.txt}
+  - {in: data/in2.txt, out: data/out2.txt}
+  - {in: data/in3.txt, out: data/out3.txt}
+  - {in: data/in4.txt, out: data/out4.txt}
+  - {in: data/in5.txt, out: data/out5.txt}
+  points: 100
